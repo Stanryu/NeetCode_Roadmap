@@ -1,5 +1,3 @@
-import typing
-
 class Solution:
     def hasDuplicate(self, nums: list[int]) -> bool:
         nums_set = set(nums)
